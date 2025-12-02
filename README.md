@@ -31,7 +31,7 @@ Follow these steps to get started:
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/foxintheloop/transitguard-app.git
 
 # Step 2: Navigate to the project directory
 cd transitguard-app
