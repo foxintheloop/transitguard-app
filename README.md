@@ -6,17 +6,18 @@ Mobile application providing push notifications and SMS alerts when safety incid
 
 ## Features
 
-- **Location-based alerts** — Get notified about incidents near your current station
-- **Predictive warnings** — Receive alerts for high-risk time windows before you travel
-- **GenAI chatbot** — Ask natural language questions about safety by location and time
-- **Route planning** — See safety scores for your planned commute
+- **Location-based alerts** - Get notified about incidents near your current station
+- **Predictive warnings** - Receive alerts for high-risk time windows before you travel
+- **GenAI chatbot** - Ask natural language questions about safety by location and time
+- **Route planning** - See safety scores for your planned commute
 
 ## Part of TransitGuard
 
 This mobile app is one component of the TransitGuard platform. See also:
 
-- [TransitGuard Dashboard](https://github.com/foxintheloop/transitguard-dashboard) — Web analytics for CTA operations
-- [TransitGuard (main)](https://github.com/foxintheloop/transitguard) — Project overview and documentation
+- [TransitGuard Dashboard](https://github.com/foxintheloop/transitguard-dashboard) - Web analytics for CTA operations
+- [TransitGuardRAG](https://github.com/foxintheloop/TransitGuardRAG) - GenAI RAG API chatbot backend
+- [TransitGuard (main)](https://github.com/foxintheloop/transitguard) - Project overview and documentation
 
 ## Getting Started
 
