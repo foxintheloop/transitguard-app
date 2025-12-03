@@ -6,13 +6,30 @@ Mobile application providing push notifications and SMS alerts when safety incid
 
 ## Screenshots
 
-<p align="center">
-  <img src="assets/home.png" width="150" alt="Home"/>
-  <img src="assets/map.png" width="150" alt="Map"/>
-  <img src="assets/report.png" width="150" alt="Report"/>
-  <img src="assets/alerts.png" width="150" alt="Alerts"/>
-  <img src="assets/chatbot.png" width="150" alt="Chatbot"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/home.png" width="150" alt="Safety Dashboard"/><br/>
+      <sub><b>Safety Dashboard</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/map.png" width="150" alt="Safety Map"/><br/>
+      <sub><b>Safety Map</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/report.png" width="150" alt="Report Incident"/><br/>
+      <sub><b>Report Incident</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/alerts.png" width="150" alt="Safety Alerts"/><br/>
+      <sub><b>Safety Alerts</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/chatbot.png" width="150" alt="AI Assistant"/><br/>
+      <sub><b>AI Assistant</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## Features
 
