@@ -4,6 +4,16 @@
 
 Mobile application providing push notifications and SMS alerts when safety incidents are predicted or reported near CTA stations and routes.
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/home.png" width="150" alt="Home"/>
+  <img src="assets/map.png" width="150" alt="Map"/>
+  <img src="assets/report.png" width="150" alt="Report"/>
+  <img src="assets/alerts.png" width="150" alt="Alerts"/>
+  <img src="assets/chatbot.png" width="150" alt="Chatbot"/>
+</p>
+
 ## Features
 
 - **Location-based alerts** - Get notified about incidents near your current station
